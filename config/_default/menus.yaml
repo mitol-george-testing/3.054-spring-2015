@@ -1,0 +1,33 @@
+leftnav:
+- identifier: db33d21e-2cea-692a-4669-af7caaaf5ee2
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 13a7106e-5229-2b08-58f3-363e43bb14c5
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 8ca7e8b9-9969-75ff-7fc2-970462307455
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
+- identifier: b82e5929-27a6-e1e3-cfe1-5bf0f39925a8
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 40
+- identifier: 52fc88e7-4b46-87f1-bcc4-b78ca2f7d7b6
+  name: Video Lectures
+  url: /pages/video-lectures
+  weight: 50
+- identifier: 50a60483-9a10-f753-24a9-31daa158f741
+  name: Projects
+  url: /pages/projects
+  weight: 60
+- identifier: 1cc9b5ab-ee17-ef64-c1b0-cec1d832e7a9
+  name: Woodpecker Videos
+  url: /pages/woodpecker-videos
+  weight: 70
+- identifier: fe17351d-8f11-4476-31e3-67e3d83ef406
+  name: Related Videos
+  url: /pages/related-videos
+  weight: 80
